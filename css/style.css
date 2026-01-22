@@ -1,5 +1,5 @@
 /* Mobile Stylesheet - Dark Mode Theme */
-
+/*
 body {
   background-color: #121212;
   color: #e0e0e0;
@@ -144,4 +144,40 @@ article a {
 
 article a:hover {
   background-color: #2a6f95;
+}
+*/
+/* Mobile Stylesheet - Dark Mode Theme */
+
+body {
+  background-color: #79BAEC;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: gainsboro;
+  padding: 20px 0px 40px 0px;
+}
+
+nav {
+  text-decoration: underline;
+}
+
+h2 {
+  margin: 25px;
+}
+
+article {
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  place-items: center;
+  margin: 25px;
+  width: fit-content;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
